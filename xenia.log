@@ -1,0 +1,67 @@
+i> 00001830 Build: canary_experimental@b7b707ddd on Feb  1 2025
+i> 00001830 Storage root: C:\Users\Jarod_FR\Downloads\xenia_canary_windows
+i> 00001830 Content root: C:\Users\Jarod_FR\Downloads\xenia_canary_windows\content
+i> 00001830 Host cache root: C:\Users\Jarod_FR\Downloads\xenia_canary_windows\cache_host
+i> 00004EE4 winkey: "0x08" binds key 0x8 to controller input GUIDE.
+i> 00004EE4 winkey: "^A" binds key 0x41 to controller input DPAD_LEFT.
+i> 00004EE4 winkey: "^D" binds key 0x44 to controller input DPAD_RIGHT.
+i> 00004EE4 winkey: "^S" binds key 0x53 to controller input DPAD_DOWN.
+i> 00004EE4 winkey: "^W" binds key 0x57 to controller input DPAD_UP.
+i> 00004EE4 winkey: "_A" binds key 0x41 to controller input LEFT_THUMB_LEFT.
+i> 00004EE4 winkey: "_D" binds key 0x44 to controller input LEFT_THUMB_RIGHT.
+i> 00004EE4 winkey: "_S" binds key 0x53 to controller input LEFT_THUMB_DOWN.
+i> 00004EE4 winkey: "_W" binds key 0x57 to controller input LEFT_THUMB_UP.
+i> 00004EE4 winkey: "F" binds key 0x46 to controller input LEFT_THUMB_PRESSED.
+i> 00004EE4 winkey: "0x26" binds key 0x26 to controller input RIGHT_THUMB_UP.
+i> 00004EE4 winkey: "0x28" binds key 0x28 to controller input RIGHT_THUMB_DOWN.
+i> 00004EE4 winkey: "0x27" binds key 0x27 to controller input RIGHT_THUMB_RIGHT.
+i> 00004EE4 winkey: "0x25" binds key 0x25 to controller input RIGHT_THUMB_LEFT.
+i> 00004EE4 winkey: "K" binds key 0x4B to controller input RIGHT_THUMB_PRESSED.
+i> 00004EE4 winkey: "L" binds key 0x4C to controller input X.
+i> 00004EE4 winkey: "0xDE" binds key 0xDE to controller input B.
+i> 00004EE4 winkey: "0xBA" binds key 0xBA to controller input A.
+i> 00004EE4 winkey: "P" binds key 0x50 to controller input Y.
+i> 00004EE4 winkey: "Q" binds key 0x51 to controller input LEFT_TRIGGER.
+i> 00004EE4 winkey: "I" binds key 0x49 to controller input LEFT_TRIGGER.
+i> 00004EE4 winkey: "E" binds key 0x45 to controller input RIGHT_TRIGGER.
+i> 00004EE4 winkey: "O" binds key 0x4F to controller input RIGHT_TRIGGER.
+i> 00004EE4 winkey: "Z" binds key 0x5A to controller input BACK.
+i> 00004EE4 winkey: "X" binds key 0x58 to controller input START.
+i> 00004EE4 winkey: "1" binds key 0x31 to controller input LEFT_SHOULDER.
+i> 00004EE4 winkey: "3" binds key 0x33 to controller input RIGHT_SHOULDER.
+i> 00001830 SDL Version 2.30.11 initialized.
+w> 00001830 SDL GameControllerDB: file 'gamecontrollerdb.txt' does not exist.
+i> 00004EE4 PatchDB: Loaded patches for 0 titles
+!> 00004EE4 ProfileManager: Found 0 Profiles
+i> 00004EE4 Added handle:F8000000 for class xe::kernel::XObject
+i> 00004EE4 Added handle:01000004 for class xe::kernel::XObject
+i> 00004EE4 Added handle:01000008 for class xe::kernel::XObject
+i> 00004EE4 Added handle:0100000C for class xe::kernel::XObject
+i> 00004EE4 DXGI adapter: NVIDIA GeForce RTX 3060 (vendor 0x10DE, device 0x2504)
+i> 00004EE4 Direct3D 12 device and OS features:
+* Max GPU virtual address bits per resource: 40
+* Non-zeroed heap creation: yes
+* Pixel-shader-specified stencil reference: no
+* Programmable sample positions: tier 2
+* Rasterizer-ordered views: yes
+* Resource binding: tier 3
+* Tiled resources: tier 3
+* Unaligned block-compressed textures: yes
+i> 00004EE4 Added handle:01000010 for class xe::kernel::XObject
+i> 00004EE4 XThread01000010 (1) Stack: 70010000-70030000
+i> 00004EE4 Added handle:01000014 for class xe::kernel::XObject
+i> 00004EE4 XThread01000014 (2) Stack: 70050000-70070000
+K> 01000010 XThread::Execute thid 1 (handle=01000010, 'GPU Commands (01000010)', native=00004F20, <host>)
+K> 01000014 XThread::Execute thid 2 (handle=01000014, 'GPU Frame limiter (01000014)', native=00004F24, <host>)
+i> 00004EE4 Added handle:01000018 for class xe::kernel::XObject
+i> 00004EE4 XThread01000018 (3) Stack: 70090000-700B0000
+i> 00004EE4 Added handle:0100001C for class xe::kernel::XObject
+i> 00004EE4 XThread0100001C (4) Stack: 700D0000-700F0000
+K> 01000018 XThread::Execute thid 3 (handle=01000018, 'XMA Decoder (01000018)', native=00004F28, <host>)
+K> 0100001C XThread::Execute thid 4 (handle=0100001C, 'Audio Worker (0100001C)', native=00004F2C, <host>)
+F> 00001830 HostPathDevice::ResolvePath()
+F> 00001830 HostPathDevice::ResolvePath()
+i> 00001830 Loaded JFR (GUID: E030000063992B10) to slot 0
+w> 00001830 Attempting to save unsupported profile setting 0x63E83FFF from disk
+w> 00001830 Attempting to save unsupported profile setting 0x63E83FFE from disk
+w> 00001830 Attempting to save unsupported profile setting 0x63E83FFD from disk
